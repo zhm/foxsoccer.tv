@@ -3,6 +3,7 @@
 // @namespace      mcc
 // @description    minimalize foxsoccer.tv
 // @include        http://www.foxsoccer.tv/watchdvr/*
+// @include        http://www.foxsoccer2go.com/watchdvr/*
 // ==/UserScript==
 
 function minimalize() {
